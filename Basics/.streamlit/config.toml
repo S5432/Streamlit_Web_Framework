@@ -1,0 +1,15 @@
+[theme]
+# The main accent color for widgets (buttons, sliders, etc.)
+primaryColor="#FF4B4B"  # Example: A shade of red
+
+# Background color for the main content area
+backgroundColor="grey" # Example: A light grey
+
+# Background color for sidebar and other secondary areas
+secondaryBackgroundColor="#E8EAF0" # Example: A slightly different light grey
+
+# Text color
+textColor="#31333F" # Example: Dark grey
+
+# Font family ("sans serif", "serif", or "monospace")
+font="sans serif"
